@@ -1,7 +1,7 @@
 Aqua Wallet
-A crypto wallet that makes it easy to use the blockchain.
+This is a crypto wallet that makes it easy to use the blockchain.
 
-Create account
+You can create account
 Restore account
 Send ETH
 View transactions
